@@ -7,3 +7,8 @@ git 操作
 5. `git push origin master` 把本地仓库的代码推送到远程仓库。origin master 代表远程的master 分支。
 
 ## 创建新分支进行提交
+git branch xxx 创建新分支xxx
+git checkout xxx 切换到分支xxx
+
+## 使本地仓库的代码和远程仓库的代码保持一致
+`git pull`
